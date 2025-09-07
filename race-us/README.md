@@ -7,8 +7,8 @@ Paper: [Toward a Programmable Humanizing Artificial Intelligence Through Scalabl
 - **lv1_users.csv** – Mapping of user_ids to level-1 communities.  
 - **lv2_users.csv** – Mapping of user_ids to level-2 communities.  
 - **lv2_labels.png** – Camp labels for level-2 communities.  
-- **sorted_narratives_alm.json** – Patterned top narratives for *All Lives Matter (ALM)*.  
-- **sorted_narratives_blm.json** – Patterned top narratives for *Black Lives Matter (BLM)*.  
+- **sorted_narratives_alm.json** – Patterned top narratives for ALM.  
+- **sorted_narratives_blm.json** – Patterned top narratives for BLM.  
 
 ### Community Detection
 
