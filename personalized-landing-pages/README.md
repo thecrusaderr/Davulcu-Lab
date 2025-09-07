@@ -1,11 +1,15 @@
-step1_keyword_detection.ipynb: Detects salient keywords from social media text.
+# README
 
-step2_data_collection.ipynb: Collects tweets containing the detected keywords.
+Paper: [Targeted marketing on social media: utilizing text analysis to create personalized landing pages](https://link.springer.com/article/10.1007/s13278-024-01213-0)
 
-step3_clustering_tweets.ipynb: Clusters tweets using embeddings to group similar content.
+**step1_keyword_detection.ipynb:** Detects salient keywords from social media text.  
 
-step4_classifying_related_tweets.ipynb: Classifies and filters tweets to keep only relevant ones.
+**step2_data_collection.ipynb:** Collects tweets containing the detected keywords.  
 
-step5_topic_modeling.ipynb: Performs topic modeling to identify key themes and user priorities.
+**step3_clustering_tweets.ipynb:** Clusters tweets using embeddings to group similar content.  
 
-step6_paragraph_generation.ipynb: Generates personalized landing page paragraphs from topics.
+**step4_classifying_related_tweets.ipynb:** Classifies and filters tweets to keep only relevant ones.  
+
+**step5_topic_modeling.ipynb:** Performs topic modeling to identify key themes and user priorities.  
+
+**step6_paragraph_generation.ipynb:** Generates personalized landing page paragraphs from topics.  
